@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.311a9d1c.css",
+    "main.js": "/static/js/main.af6a85df.js",
+    "static/js/787.f5678d24.chunk.js": "/static/js/787.f5678d24.chunk.js",
+    "static/media/onion.svg": "/static/media/onion.6c3f72232528ba03c1b220168cffb98b.svg",
+    "static/media/cotton.svg": "/static/media/cotton.5036013a6dc2c0b0dac3279eefd0f0b0.svg",
+    "static/media/paddy.svg": "/static/media/paddy.a904f5b276403b017235e94c04b10833.svg",
+    "static/media/card-image-chilli.png": "/static/media/card-image-chilli.f50bd29663da799563f8.png",
+    "static/media/card-image-soyabean.png": "/static/media/card-image-soyabean.59698f01576f9ee9a49a.png",
+    "static/media/card-image-paddy.png": "/static/media/card-image-paddy.1f5c14cd09564127c5d3.png",
+    "static/media/card-image-corn.png": "/static/media/card-image-corn.d413234ba507b0e95a54.png",
+    "static/media/card-image-wheat.png": "/static/media/card-image-wheat.994b93179da9b62e2407.png",
+    "static/media/card-image-bajra.png": "/static/media/card-image-bajra.43c325320791b81f657c.png",
+    "static/media/corn.svg": "/static/media/corn.137299d479a18f096e5383e3112f7ea1.svg",
+    "static/media/card-image-onion.png": "/static/media/card-image-onion.9295bdcaa4c9d58c7b4a.png",
+    "static/media/card-image-chickpeas.png": "/static/media/card-image-chickpeas.0a2b1d5026a2a0a535da.png",
+    "static/media/card-image-tomato.png": "/static/media/card-image-tomato.a3b15e9a03d4c79baee0.png",
+    "static/media/wheat.svg": "/static/media/wheat.a6b7a5184dc21921d818755e44b317bc.svg",
+    "static/media/chilli.svg": "/static/media/chilli.d481894126843f22e22e68716eb92fa7.svg",
+    "static/media/soyabean.svg": "/static/media/soyabean.39c86303ab34af77c51ac8bcc6dab443.svg",
+    "static/media/tomato.svg": "/static/media/tomato.5c990a94dcf3fdabee2870a22b6aabc9.svg",
+    "static/media/logo.svg": "/static/media/logo.ead2776a6c987c82b4de321e30c4b535.svg",
+    "static/media/rategrow.svg": "/static/media/rategrow.95b5e7d6b80dbd02202641cd2ba2977f.svg",
+    "static/media/geolocation.svg": "/static/media/geolocation.f7899809a48a5ea99a750817570bdf93.svg",
+    "index.html": "/index.html",
+    "main.311a9d1c.css.map": "/static/css/main.311a9d1c.css.map",
+    "main.af6a85df.js.map": "/static/js/main.af6a85df.js.map",
+    "787.f5678d24.chunk.js.map": "/static/js/787.f5678d24.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.311a9d1c.css",
+    "static/js/main.af6a85df.js"
+  ]
+}
