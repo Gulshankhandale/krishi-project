@@ -17,17 +17,17 @@ function TopBar() {
             <a className="nav-link active" aria-current="page" href="#">Home</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="#">Link</a>
+            <a className="nav-link" href="#">Products</a>
           </li>
           <li className="nav-item">
-            <a className="nav-link disabled">Disabled</a>
+            <a className="nav-link">Contribution</a>
           </li>
           <li className="nav-item dropdown">
-            <a className="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
+            <a className="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">Agri</a>
             <ul className="dropdown-menu">
-              <li><a className="dropdown-item" href="#">Action</a></li>
-              <li><a className="dropdown-item" href="#">Another action</a></li>
-              <li><a className="dropdown-item" href="#">Something else here</a></li>
+              <li><a className="dropdown-item" href="#">Agri1</a></li>
+              <li><a className="dropdown-item" href="#">Agri2</a></li>
+              <li><a className="dropdown-item" href="#">Agri3</a></li>
             </ul>
           </li>
         </ul>

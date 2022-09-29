@@ -65,9 +65,9 @@ function TopSecBar() {
 <div className='col-md-0'>
  <select class="form-select select-forms" id="" aria-label="Floating label select example">
     <option selected>Location</option>
-    <option value="1">One</option>
-    <option value="2">Two</option>
-    <option value="3">Three</option>
+    <option value="1">Nagpur</option>
+    <option value="2">Nashik</option>
+    <option value="3">Jalna</option>
   </select>
   </div>
     </div>

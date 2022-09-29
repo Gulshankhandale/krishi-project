@@ -12,6 +12,7 @@ import { WEATHER_API_KEY, WEATHER_API_URL } from './Components/api'
 import { useState } from 'react'
 import Forecast from './Components/Forecast';
 import AgriProducts from './Components/AgriProducts';
+import Footer from './Components/Footer';
 
 
 
@@ -54,6 +55,7 @@ function App() {
 {currentWeather && <CurrentWeather data={currentWeather}/>}
 {forecast && <Forecast data={forecast}/>}
 <AgriProducts/>
+<Footer/>
   
   
   
